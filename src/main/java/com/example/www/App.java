@@ -1,13 +1,11 @@
 package com.example.www;
 
 /**
- * Hello world!
+ * This is a 'hello world' application.
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+  public static void main( String[] args ) {
+    System.out.println( "Hello World!" );
+  }
 }
